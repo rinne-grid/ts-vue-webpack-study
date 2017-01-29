@@ -1,0 +1,20 @@
+{
+  "name": "vue_study_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "typescript": "^2.1.5",
+    "vue": "^2.1.10",
+    "vue-loader": "^10.1.2",
+    "vue-template-compiler": "^2.1.10",
+    "vue-ts-loader": "0.0.3"
+  }
+}
